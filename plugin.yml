@@ -1,7 +1,7 @@
 name: ips
 version: 1.0.0
 author: applqpak
-api: [2.0.0, 3.0.0]
+api: [2.0.0, 3.0.0-ALPHA1]
 main: ips\Main
 permissions:
   ips.command.ips:
